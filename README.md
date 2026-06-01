@@ -135,14 +135,13 @@ Each challenge folder contains:
 ### Target
 | Challenge   | Writeup |
 |-------------|---------|
-| Target      |Target.md|
+| Target      | [Target.md](3.%20OSINT/1.%20Target/Target.md/ |
 
 
 ### OSINT Sanity Check
 | Challenge | Writeup |
 |-----------|---------|
 | Plain TXT | [solution.txt](3.%20OSINT/2.%20Osint%20Sanity%20Check/1.%20Plain%20TXT/solution.txt) |
-| Flag is in the Description | No writeup yet |
 
 ### Lore of the World
 | Challenge | Writeup |
