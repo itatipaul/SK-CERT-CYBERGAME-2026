@@ -135,7 +135,7 @@ Each challenge folder contains:
 ### Target
 | Challenge   | Writeup |
 |-------------|---------|
-| Target      | [Target.md](3.%20OSINT/1.%20Target/Target.md/ |
+| Target      | [[Target.md]([url](https://github.com/itatipaul/SK-CERT-CYBERGAME-2026/tree/main/3.%20OSINT/1.%20Target))] |
 
 
 ### OSINT Sanity Check
