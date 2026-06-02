@@ -254,8 +254,8 @@ Each challenge folder contains:
 |-----------|---------|
 | Keypad | No writeup yet |
 | Warden | No writeup yet |
-| Beacon v0 | No writeup yet |
-| Beacon | No writeup yet |
+| Beacon v0 | [Beaconv0.md](https://github.com/itatipaul/SK-CERT-CYBERGAME-2026/blob/main/5.%20Malware%20Analysis/9.%20Intergalactic/3.%20Beacon%20v0/Beaconv0.md) |
+| Beacon |
 
 ---
 
