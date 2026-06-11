@@ -6,7 +6,7 @@ Files + Solutions for Cybergames 2026 Challenges
 
 [Platform][platform] | [Website][website]  | [Discord][discord]
 
-[platform]: https://2025.duc.tf
+[platform]: https://cybergame.sk/en
 [banner]: ./CG26.en.year.png
 [website]: https://cybergame.sk/en
 [discord]: https://discord.gg/wPvqEuJTax
