@@ -124,7 +124,7 @@ Each challenge folder contains:
 |-----------|---------|
 | Goldilocs | [goldilocs_writeup.txt](2.%20Cryptography/2.%20Return%20of%20eliptic/1.%20goldilocs/goldilocs_wrteup.txt) |
 | Extended Illusion | No writeup yet |
-| Twisting the Truth | [Twisting_the_Truth.md](2.%20Cryptography/2.%20Return%20of%20eliptic/1.%20twisting%20the%20truth/Twisting_the_Truth.md) |
+| Twisting the Truth | [Twisting_the_Truth.md](2.%20Cryptography/2.%20Return%20of%20eliptic/3.%20twisting%20the%20truth/Twisting_the_Truth.md) |
 
 ### Miscrypto
 | Challenge | Writeup |
