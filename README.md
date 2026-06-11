@@ -42,7 +42,7 @@ Each challenge folder contains:
 ### future.js
 | Challenge | Writeup |
 |-----------|---------|
-| future.js — XSS Bot | [futurejs_Writeup.md](1.%20Offensive%20Security/2.%20Maverick/futurejs_Writeup.md) |
+| future.js — XSS Bot | [futurejs_Writeup.md](1.%20Offensive%20Security/2.%20future.js/futurejs_Writeup.md) |
 
 ### SnailNet
 | Challenge | Writeup |
