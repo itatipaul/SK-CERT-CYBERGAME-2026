@@ -42,7 +42,7 @@ Each challenge folder contains:
 ### future.js
 | Challenge | Writeup |
 |-----------|---------|
-| future.js — XSS Bot | No writeup yet |
+| future.js — XSS Bot | [futurejs_Writeup.md](1.%20Offensive%20Security/2.%20future.js/futurejs_Writeup.md) |
 
 ### SnailNet
 | Challenge | Writeup |
@@ -124,7 +124,7 @@ Each challenge folder contains:
 |-----------|---------|
 | Goldilocs | [goldilocs_writeup.txt](2.%20Cryptography/2.%20Return%20of%20eliptic/1.%20goldilocs/goldilocs_wrteup.txt) |
 | Extended Illusion | No writeup yet |
-| Twisting the Truth | No writeup yet |
+| Twisting the Truth | [twisting the truth](2.%20Cryptography/2.%20Return%20of%20eliptic/1.%20twisting%20the%20truth/twistingthetruth.md) |
 
 ### Miscrypto
 | Challenge | Writeup |
