@@ -1,5 +1,18 @@
-# SK-CERT CyberGame 2026 — CTF Writeups
-  
+<div align="center">
+
+![banner][banner]
+
+Files + Solutions for Cybergames 2026 Challenges
+
+[Platform][platform] | [Website][website]  | [Discord][discord]
+
+[platform]: https://2025.duc.tf
+[banner]: ./CG26.en.year.png
+[website]: https://cybergame.sk/en
+[discord]: https://discord.gg/wPvqEuJTax
+
+</div>
+
 
 *Author - 01010011 01100101 01101110 01110000 01100001 01101001*              
 
