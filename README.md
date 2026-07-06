@@ -2,7 +2,7 @@
 
 ![banner][banner]
 
-Files + Solutions for Cybergames 2026 Challenges
+Files + Solutions for SK-CERT Cybergames 2026 Challenges
 
 [Platform][platform] | [Website][website]  | [Discord][discord]
 
